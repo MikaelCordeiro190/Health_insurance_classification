@@ -4,3 +4,6 @@ Identificar quais clientes têm maior probabilidade de adquirir um Seguro de Sa�
 
 # Sobre o Cliente
 A seguradora deseja lançar ou expandir a oferta de Seguro de Saúde para clientes atuais ou potenciais. No entanto, não é viável oferecer de forma massiva para todos os clientes devido a custos e recursos limitados. É necessário entender padrões de comportamento e características de clientes que indicam maior propensão à compra.
+
+# Descrição dos Dados
+<img width="839" height="580" alt="image" src="https://github.com/user-attachments/assets/25462ad1-2e2d-4180-afe2-f2f4a2ecb55e" />
