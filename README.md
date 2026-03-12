@@ -57,7 +57,7 @@ CRISP-DM:
 
 **Verdadeiro**: Clientes do gênero masculino apresentam maior propensão a adquirir o seguro de saúde em comparação com clientes do gênero feminino.
 
-<img width="533" height="383" alt="image" src="https://github.com/user-attachments/assets/d6ff69b8-edfd-4846-8095-ebe0cbb36a2b" />
+<img width="801" height="383" alt="image" src="https://github.com/user-attachments/assets/d6ff69b8-edfd-4846-8095-ebe0cbb36a2b" />
 
 
 
