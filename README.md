@@ -82,6 +82,8 @@ Top K Precisão: A Top K Precisão é uma métrica de avaliação utilizada em m
 Recall Top K: O Recall Top K é uma métrica que avalia a capacidade do modelo de identificar os casos positivos dentro dos K primeiros resultados classificados. Ele mede quantos dos verdadeiros positivos presentes no conjunto de dados foram recuperados entre as primeiras recomendações do modelo. Valores mais altos indicam que o modelo consegue capturar uma maior quantidade de casos relevantes nas posições mais importantes da classificação.
 
 Top K F1-Pontuação: A Top K F1-Pontuação é uma métrica que combina Top K Precisão e Recall Top K, calculando a média harmônica entre essas duas medidas. Ela fornece uma avaliação equilibrada do desempenho do modelo, considerando tanto a precisão das recomendações quanto a capacidade de recuperar os casos positivos. Valores mais altos indicam que o modelo apresenta um bom equilíbrio entre identificar corretamente os casos relevantes e cobrir uma maior proporção deles dentro do Top K.
-  
+
+<img width="346" height="139" alt="image" src="https://github.com/user-attachments/assets/5e143ba4-5189-423c-b5ed-8ae101a5776b" />
+
 
 
