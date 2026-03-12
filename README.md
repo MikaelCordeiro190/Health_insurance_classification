@@ -128,4 +128,9 @@ I. Com 40.000 ligações, o modelo permite alcançar aproximadamente 9.640 clien
 
 I. O modelo conseguiu identificar 98,31% dos clientes interessados (46.084 pessoas) dentro de um universo de 381.109 clientes. Para chegar a 80% dos interessados, é preciso realizar cerca de 155.064 chamadas, garantindo contato com aproximadamente 37.501 clientes.
 
+# Próximos Passos
+
+I. Implementar novos modelos de Machine Learning.
+II. Aprimorar as Features para melhor resultado de Precision.
+III. Validar mais Hipóteses que possam validar e criar insights.
 
