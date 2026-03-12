@@ -75,4 +75,13 @@ Os algotitmos selecionados foram:
 
 * LightGBM (LGBM)
 
+Após a seleção dos algoritmos, procedemos com o treinamento e teste de cada um deles para avaliar sua performance. Além disso, utilizamos o método de seleção de features RFE para identificar as variáveis mais relevantes e impactantes na base de dados.
+
+Top K Precisão: A Top K Precisão é uma métrica de avaliação utilizada em modelos de classificação e sistemas de recomendação que mede a proporção de itens relevantes entre os K primeiros resultados previstos pelo modelo. Ela indica quantos dos casos recomendados ou classificados entre as primeiras posições realmente pertencem à classe positiva. Valores mais altos indicam que o modelo é mais preciso ao priorizar os resultados mais relevantes.
+
+Recall Top K: O Recall Top K é uma métrica que avalia a capacidade do modelo de identificar os casos positivos dentro dos K primeiros resultados classificados. Ele mede quantos dos verdadeiros positivos presentes no conjunto de dados foram recuperados entre as primeiras recomendações do modelo. Valores mais altos indicam que o modelo consegue capturar uma maior quantidade de casos relevantes nas posições mais importantes da classificação.
+
+Top K F1-Pontuação: A Top K F1-Pontuação é uma métrica que combina Top K Precisão e Recall Top K, calculando a média harmônica entre essas duas medidas. Ela fornece uma avaliação equilibrada do desempenho do modelo, considerando tanto a precisão das recomendações quanto a capacidade de recuperar os casos positivos. Valores mais altos indicam que o modelo apresenta um bom equilíbrio entre identificar corretamente os casos relevantes e cobrir uma maior proporção deles dentro do Top K.
+  
+
 
