@@ -85,5 +85,17 @@ Top K F1-Pontuação: A Top K F1-Pontuação é uma métrica que combina Top K P
 
 <img width="346" height="139" alt="image" src="https://github.com/user-attachments/assets/5e143ba4-5189-423c-b5ed-8ae101a5776b" />
 
+#  Escolha do Modelo
+
+Após a comparação dos modelos, a Logistic Regression apresentou o melhor desempenho, alcançando um Precision@20 de 0,5238, superando os demais algoritmos avaliados. Esse resultado indica que aproximadamente 52% dos clientes classificados entre os 20 primeiros possuem resposta positiva real, demonstrando maior capacidade do modelo em priorizar corretamente os clientes mais relevantes.
+
+Dessa forma, a Regressão Logística foi selecionada como o modelo final do projeto, por apresentar melhor desempenho na tarefa de ranqueamento e identificação dos clientes com maior probabilidade de resposta, tornando-se a melhor opção para apoiar estratégias de decisão baseadas em dados.
+
+<img width="351" height="56" alt="image" src="https://github.com/user-attachments/assets/c0724a3f-7f99-46ba-b315-1dffedcba394" />
+
+# Hiperparâmetros
+
+Foi empregada a técnica de Random Search para otimizar a busca dos melhores hiperparâmetros. A fim de identificar o parâmetro ideal, optei por utilizar uma amostra referente a um período de 1 ano. Essa escolha permite aumentar o número de iterações em um espaço de tempo reduzido, maximizando a probabilidade de localizar um mínimo global.
+
 
 
